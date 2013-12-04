@@ -1,8 +1,8 @@
-package com.example.rowpainter;
+package com.mhosio.rowpainter;
 
 import java.util.HashMap;
 
-import com.example.rowpainter.client.RowPainterState;
+import com.mhosio.rowpainter.client.RowPainterState;
 import com.vaadin.server.AbstractExtension;
 import com.vaadin.ui.GridLayout;
 

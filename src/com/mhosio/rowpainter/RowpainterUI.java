@@ -1,4 +1,4 @@
-package com.example.rowpainter;
+package com.mhosio.rowpainter;
 
 import javax.servlet.annotation.WebServlet;
 
@@ -17,7 +17,7 @@ import com.vaadin.ui.VerticalLayout;
 public class RowpainterUI extends UI {
 
 	@WebServlet(value = "/*", asyncSupported = true)
-	@VaadinServletConfiguration(productionMode = false, ui = RowpainterUI.class, widgetset = "com.example.rowpainter.RowpainterWidgetset")
+	@VaadinServletConfiguration(productionMode = false, ui = RowpainterUI.class, widgetset = "com.mhosio.rowpainter.RowpainterWidgetset")
 	public static class Servlet extends VaadinServlet {
 	}
 

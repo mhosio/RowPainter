@@ -1,12 +1,12 @@
-package com.example.rowpainter.client;
+package com.mhosio.rowpainter.client;
 
 import java.util.Map;
 
-import com.example.rowpainter.RowPainter;
 import com.google.gwt.canvas.client.Canvas;
 import com.google.gwt.canvas.dom.client.Context2d;
 import com.google.gwt.core.client.Scheduler;
 import com.google.gwt.user.client.Element;
+import com.mhosio.rowpainter.RowPainter;
 import com.vaadin.client.ConnectorHierarchyChangeEvent;
 import com.vaadin.client.ConnectorHierarchyChangeEvent.ConnectorHierarchyChangeHandler;
 import com.vaadin.client.LayoutManager;

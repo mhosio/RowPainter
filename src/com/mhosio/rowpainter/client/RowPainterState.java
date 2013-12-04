@@ -1,4 +1,4 @@
-package com.example.rowpainter.client;
+package com.mhosio.rowpainter.client;
 
 import java.util.Map;
 
